@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-kuhawy.pulaucuan.net/sitemap.xml
